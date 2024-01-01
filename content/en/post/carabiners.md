@@ -5,4 +5,4 @@ featured_image: "/images/shutterstock_362174360.jpg"
 title: " Latest Carabiners For Sale"
 ---
 
-Carabiners for sale!
+Carabiners are available for sale today!
